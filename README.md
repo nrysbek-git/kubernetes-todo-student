@@ -1,5 +1,7 @@
 # Kubernetes Todo Lab — Student Starter
 
+[Русский](README.md) | [English](README_EN.md)
+
 Промежуточный практический проект по Kubernetes для программы «DevOps с нуля до
 production».
 
