@@ -14,6 +14,16 @@ production».
 Helm chart, cloud infrastructure и готовые secrets. Их необходимо создать
 самостоятельно.
 
+## Ожидаемый результат
+
+После выполнения задания приложение должно выглядеть так:
+
+![Ожидаемый интерфейс Kubernetes Todo Lab](docs/screenshots/kubernetes-todo-dashboard.png)
+
+Backend предоставляет интерактивную FastAPI/OpenAPI документацию:
+
+![Ожидаемая FastAPI documentation](docs/screenshots/fastapi-docs.png)
+
 Начните с [PREREQUISITES.md](PREREQUISITES.md), затем прочитайте
 [ASSIGNMENT.md](ASSIGNMENT.md) и [GRADING_RUBRIC.md](GRADING_RUBRIC.md).
 
