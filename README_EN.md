@@ -1,4 +1,4 @@
-# Kubernetes Todo Lab — Student Starter
+# Kubernetes Todo — Student Project
 
 [Русский](README.md) | [English](README_EN.md)
 
@@ -54,4 +54,3 @@ Start with [PREREQUISITES.md](PREREQUISITES.md), then read
 
 Never commit real credentials, `.env`, private keys, or a populated Kubernetes
 Secret manifest.
-

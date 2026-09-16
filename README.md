@@ -1,4 +1,4 @@
-# Kubernetes Todo Lab — Student Starter
+# Kubernetes Todo — Student Project
 
 [Русский](README.md) | [English](README_EN.md)
 
