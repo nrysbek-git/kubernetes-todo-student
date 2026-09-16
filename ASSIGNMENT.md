@@ -47,7 +47,7 @@ HTML и проксирует `/api`.
 
 Запустите frontend, backend и PostgreSQL. Добавьте named volume, healthchecks,
 service dependencies и local-only credentials. Снаружи публикуется только
-frontend на `8080`.
+frontend: порт хоста `8081` направляется на порт контейнера `8080`.
 
 ```bash
 docker compose up --build -d
